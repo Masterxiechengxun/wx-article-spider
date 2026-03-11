@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+articles/
+*.json
+__pycache__
